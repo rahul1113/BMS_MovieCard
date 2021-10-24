@@ -1,0 +1,10 @@
+.movie-card {
+    width: 10em;
+    max-width: 315px;
+    margin: 2em;
+    border-radius: 10px;
+    padding-top: 1rem;
+    text-align: left;
+    color: white;
+    position: relative;
+  }

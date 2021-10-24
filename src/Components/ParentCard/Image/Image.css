@@ -1,0 +1,16 @@
+.Image{
+    width: 200;
+    margin: "0px 10px";
+    height: 250,
+}
+.Imageicon{
+     height: 50px; 
+     width: 50px; 
+     position: absolute; 
+     left: 40%; 
+     top: 100px; 
+}
+.Imageerror{
+     width: 200px; 
+     height: 250px; 
+}

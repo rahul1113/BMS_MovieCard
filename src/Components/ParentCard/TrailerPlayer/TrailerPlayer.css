@@ -1,0 +1,10 @@
+.trailerCard{
+    display: flex;
+    width: 100%;
+}
+.child1{
+    flex-grow: 3;
+}
+.child2{
+    flex-grow: 2;
+}
